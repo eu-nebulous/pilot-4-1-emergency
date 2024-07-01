@@ -1,5 +1,0 @@
-[gerrit]
-host=review.opendev.org
-port=29418
-project=nebulous/pilot-4-1-emergency.git
-defaultbranch=master
